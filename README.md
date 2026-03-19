@@ -1,2 +1,3 @@
 # View-my-portfolio-
-Turning raw data into strategic decisions.
+Data Engineering and Analysis
+Turning raw data into strategic decisions
