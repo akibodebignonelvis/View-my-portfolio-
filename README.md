@@ -1,2 +1,2 @@
 # View-my-portfolio-
-Des données brutes transformées en levier stratégique.
+Turning raw data into strategic decisions.
